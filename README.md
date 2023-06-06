@@ -24,10 +24,10 @@ The data provided is of various customers of a bank and their financial attribut
 - Total calls made: Total number of calls made by the customer to the bank or its customer service department (yearly)
 
 ## Links to the jupyter notebook file:
-
+https://github.com/giftomoba/Bank-Credit-Card-Project/blob/main/Data%20Formatting%20and%20Visualization%20Task.ipynb
 
 ## Clustering Summary:
-- Two groups formed.
+- Two groups formed (cluster 0 and cluster 1).
 - Cluster 1 contacted the bank mostly online.
 - Cluster 1 had the highest Average Credit Limit as well as number of credit cards.
 - cluster 0 paid more visits to the bank and also made the most calls to the bank.
