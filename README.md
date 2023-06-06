@@ -24,7 +24,7 @@ The data provided is of various customers of a bank and their financial attribut
 - Total calls made: Total number of calls made by the customer to the bank or its customer service department (yearly)
 
 ## Links to the jupyter notebook file:
-https://github.com/giftomoba/Bank-Credit-Card-Project/blob/main/Data%20Formatting%20and%20Visualization%20Task.ipynb
+https://github.com/giftomoba/Bank-Credit-Card-Project/blob/main/Credit%20Card%20Customer%20Data.ipynb
 
 ## Clustering Summary:
 - Two groups formed (cluster 0 and cluster 1).
